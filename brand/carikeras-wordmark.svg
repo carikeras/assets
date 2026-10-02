@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 96" role="img" aria-labelledby="title desc">
+  <title id="title">CariKeras</title>
+  <desc id="desc">CariKeras wordmark.</desc>
+  <path fill="#2386C8" d="M30 8h24l20 11v22L54 52H30L10 41V19z"/>
+  <path fill="#fff" d="M33 18h18l10 6v12l-10 6H33l-10-6V24z"/>
+  <path fill="#2386C8" d="M36 25h12l6 3.5v7L48 39H36l-6-3.5v-7z"/>
+  <path fill="#FFC515" d="M26 50h30l13 8v14L56 80H26L13 72V58z"/>
+  <path fill="#fff" d="M30 58h22l7 4v6l-7 4H30l-7-4v-6z"/>
+  <text x="94" y="62" fill="#20354D" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="800" letter-spacing="-1.5">CariKeras</text>
+</svg>
